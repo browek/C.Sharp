@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<samochody>
+  <samochod>
+    <marka>Audi</marka>
+    <model>A8</model>
+    <rok>1998</rok>
+    <silnik>Diesel</silnik>
+    <naped>Na przednie koła</naped>
+    <skrzynia>Manualna</skrzynia>
+  </samochod>
+  <samochod>
+    <marka>Audi</marka>
+    <model>A8</model>
+    <rok>1998</rok>
+    <silnik>Diesel</silnik>
+    <naped>4x4 (stały)</naped>
+    <skrzynia>Automatyczna (Hydrauliczna)</skrzynia>
+  </samochod>
+  <samochod>
+    <marka>BMW</marka>
+    <model>M5</model>
+    <rok>2005</rok>
+    <silnik>Benzynowy</silnik>
+    <naped>Na tylne koła</naped>
+    <skrzynia>Automatyczna dwusprzęgłowa (DCT, DSG)</skrzynia>
+  </samochod>
+  <samochod>
+    <marka>BMW</marka>
+    <model>M3</model>
+    <rok>2003</rok>
+    <silnik>Benzynowy</silnik>
+    <naped>Na tylne koła</naped>
+    <skrzynia>Automatyczna dwusprzęgłowa (DCT, DSG)</skrzynia>
+  </samochod>
+  <samochod>
+    <marka>BMW</marka>
+    <model>M4</model>
+    <rok>2015</rok>
+    <silnik>Benzynowy</silnik>
+    <naped>Na tylne koła</naped>
+    <skrzynia>Automatyczna dwusprzęgłowa (DCT, DSG)</skrzynia>
+  </samochod>
+  <samochod>
+    <marka>Lexus</marka>
+    <model>IS</model>
+    <rok>2015</rok>
+    <silnik>Benzynowy</silnik>
+    <naped>Na tylne koła</naped>
+    <skrzynia>Automatyczna dwusprzęgłowa (DCT, DSG)</skrzynia>
+  </samochod>
+  <samochod>
+    <marka>Lexus</marka>
+    <model>LC500</model>
+    <rok>2017</rok>
+    <silnik>Benzynowy</silnik>
+    <naped>4x4 dołączany automatycznie</naped>
+    <skrzynia>Automatyczna dwusprzęgłowa (DCT, DSG)</skrzynia>
+  </samochod>
+</samochody>

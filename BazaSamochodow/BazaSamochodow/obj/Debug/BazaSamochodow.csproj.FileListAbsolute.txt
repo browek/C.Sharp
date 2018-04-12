@@ -1,0 +1,11 @@
+c:\users\nefir\source\repos\BazaSamochodow\BazaSamochodow\bin\Debug\BazaSamochodow.exe.config
+c:\users\nefir\source\repos\BazaSamochodow\BazaSamochodow\bin\Debug\BazaSamochodow.exe
+c:\users\nefir\source\repos\BazaSamochodow\BazaSamochodow\bin\Debug\BazaSamochodow.pdb
+c:\users\nefir\source\repos\BazaSamochodow\BazaSamochodow\obj\Debug\BazaSamochodow.csprojResolveAssemblyReference.cache
+c:\users\nefir\source\repos\BazaSamochodow\BazaSamochodow\obj\Debug\BazaSamochodow.Form1.resources
+c:\users\nefir\source\repos\BazaSamochodow\BazaSamochodow\obj\Debug\BazaSamochodow.Properties.Resources.resources
+c:\users\nefir\source\repos\BazaSamochodow\BazaSamochodow\obj\Debug\BazaSamochodow.csproj.GenerateResource.Cache
+c:\users\nefir\source\repos\BazaSamochodow\BazaSamochodow\obj\Debug\BazaSamochodow.csproj.CoreCompileInputs.cache
+c:\users\nefir\source\repos\BazaSamochodow\BazaSamochodow\obj\Debug\BazaSamochodow.exe
+c:\users\nefir\source\repos\BazaSamochodow\BazaSamochodow\obj\Debug\BazaSamochodow.pdb
+C:\Users\nefir\source\repos\BazaSamochodow\BazaSamochodow\obj\Debug\BazaSamochodow.Form2.resources
